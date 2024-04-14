@@ -4,7 +4,7 @@ Tutorial for the Normalizing Flows lectures at the [ERUM Deep Learning School](h
 
 Run in colab:
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhartman94/TTT-Normalizing-Flows/blob/main/)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/odsl-team/block-course-apr24-ML)
 
 ## Tutorial: `Real-NVP-tuorial.ipynb`
 
